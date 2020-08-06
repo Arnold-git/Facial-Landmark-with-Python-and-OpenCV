@@ -1,2 +1,2 @@
 # Facial-Landmark-with-Python-and-OpenCV
-![](Facial Landmark Output.png)
+![](Facial_Landmark_Output.png)
